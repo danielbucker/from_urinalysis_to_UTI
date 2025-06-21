@@ -1,0 +1,20 @@
+
+# Data manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+catboost
+pytorch-tabnet
+
+# Jupyter Notebook (if used locally)
+jupyter
+
+# Optional (for better experiment tracking)
+scipy
