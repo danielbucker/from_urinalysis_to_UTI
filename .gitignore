@@ -1,0 +1,23 @@
+# Arquivos de cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Dados grandes (editável)
+data/*
+!data/exemplo.csv
+
+# Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ambientes virtuais
+env/
+venv/
+.venv/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração do Colab
+*.bak
